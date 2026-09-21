@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shopify-mcp.github.io/sitemap.xml
