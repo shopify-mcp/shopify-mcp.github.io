@@ -19,3 +19,5 @@ There are two officially documented things under this name and they point in opp
 ---
 
 *This page is independent and is not affiliated with, endorsed by or operated by Shopify; all trademarks remain with their owners.*
+
+_Last reviewed: 2026-09-22_
